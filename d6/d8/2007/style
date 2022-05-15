@@ -1,0 +1,38 @@
+/* CSS pour Cascade Style Sheet */
+* {
+    padding: 0;
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+.container 
+    {
+    height: 100vh;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+}
+.logo {
+    width: 300px;
+    margin: 50px;
+}
+.contenu {
+    width: 500px;
+    text-align: center;
+}
+.contenu p {
+    font-size: 1.4em;
+    line-height: 1.3em;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+.prenom {
+    position: absolute;
+    bottom: 10px;
+    font-size: 7em;
+    font-weight: 900;
+    color: rgba(0, 0, 0, 0.15);
+    background: rgb(255,255,255);
+    background: linear-gradient(360deg, rgba(255,255,255,0) 0%, rgba(255,255,255,0) 25%, rgba(255,255,255,1) 11%, rgba(255,255,255,1) 50%, rgba(255,255,255,0) 51%, rgba(255,255,255,0) 100%);
+}

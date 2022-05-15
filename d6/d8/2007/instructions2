@@ -1,0 +1,5 @@
+Désormais, il faut ouvrir le fichier "main.js" avec nano et modifier le contenu de la variable avec mon prénom par le tiens.
+
+Ça ressemble à ça :
+
+let nomDeLaVariable = "Écris ton prénom ici"

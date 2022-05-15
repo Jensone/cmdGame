@@ -1,0 +1,11 @@
+// JS pour JavaScript
+
+// Écris ton prénom dans la variable ci-dessous entre les guillements
+
+let tonPrenom = "Jensone"
+
+
+// Ici c'est du code qui va mettre ton prénom à un emplacement que l'on défini, tu verra sur la page le résultat par la suite. Retourne à l'exercice tu pourra découvrir cela plus tard ;)
+
+let emplacement = document.querySelector(".tonprenom")
+emplacement.innerHTML = tonPrenom
