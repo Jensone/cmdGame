@@ -9,7 +9,7 @@ Jeu d'initiation à l'utilisation de la ligne de commande sous linux
 git clone https://github.com/Jensone/cmdGame.git
 ```
 
-### Entrer dans le dossier:
+### Entrez dans le dossier:
 
 ```
 cd cmdGame
